@@ -1,4 +1,4 @@
-# "Windows Binaries Hacking 🕵️‍♂️
+# Windows Binaries Hacking 🕵️‍♂️
 
 This repository hosts Windows binaries frequently used in CTF challenges and Red Team engagements. Each binary here has been tested and is useful across various Windows pentesting scenarios.
 
