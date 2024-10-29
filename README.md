@@ -15,5 +15,5 @@ All tools and binaries included are the copyright of their respective owners. Th
 
 ### 💼 Contributions
 
-Contributions are welcome! Please open a pull request, ensuring no licensing restrictions apply." > README.md
+Contributions are welcome! Please open a pull request, ensuring no licensing restrictions apply.
 
